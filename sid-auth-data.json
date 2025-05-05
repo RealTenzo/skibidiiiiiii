@@ -8,15 +8,5 @@
     "IsActive": true,
     "ExpiryType": "lifetime",
     "FirstUsedAt": "2025-05-05T05:10:03.703Z"
-  },
-  {
-    "KeyId": "Velora-key5089938",
-    "KeyName": "velora",
-    "SID": "",
-    "CreatedAt": "2025-05-05T04:36:15.743Z",
-    "LastLogin": null,
-    "IsActive": true,
-    "ExpiryType": "lifetime",
-    "ExpiryDate": null
   }
 ]
