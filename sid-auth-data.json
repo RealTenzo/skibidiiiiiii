@@ -8,15 +8,5 @@
     "IsActive": true,
     "ExpiryType": "lifetime",
     "FirstUsedAt": "2025-05-05T05:10:03.703Z"
-  },
-  {
-    "KeyId": "Velora-key1312581",
-    "KeyName": "Batch Key 1",
-    "SID": "",
-    "CreatedAt": "2025-05-05T05:31:52.420Z",
-    "LastLogin": null,
-    "IsActive": true,
-    "ExpiryType": "lifetime",
-    "ExpiryDate": null
   }
 ]
