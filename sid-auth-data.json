@@ -16,19 +16,6 @@
     "CalculatedExpiry": "2025-05-13T19:43:00.040Z"
   },
   {
-    "KeyId": "Velora-key4515855",
-    "KeyName": "Unnamed Key",
-    "SID": "",
-    "CreatedAt": "2025-05-06T19:41:42.659Z",
-    "FirstUsedAt": null,
-    "LastLogin": null,
-    "IsActive": true,
-    "ExpiryType": "lifetime",
-    "ExpiryDuration": null,
-    "ExpiryDate": null,
-    "CalculatedExpiry": null
-  },
-  {
     "KeyId": "Velora-key8720848",
     "KeyName": "Unnamed Key",
     "SID": "",
