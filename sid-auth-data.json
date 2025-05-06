@@ -69,5 +69,15 @@
     "ExpiryDuration": null,
     "ExpiryDate": null,
     "CalculatedExpiry": null
+  },
+  {
+    "KeyId": "Velora-key6113116",
+    "KeyName": "Batch Key 1",
+    "SID": "",
+    "CreatedAt": "2025-05-06T23:49:27.163Z",
+    "LastLogin": null,
+    "IsActive": true,
+    "ExpiryType": "lifetime",
+    "ExpiryDate": null
   }
 ]
