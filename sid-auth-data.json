@@ -6,7 +6,7 @@
     "CreatedAt": "2025-05-06T19:30:37.316Z",
     "FirstUsedAt": "2025-05-06T19:43:00.040Z",
     "LastLogin": "2025-05-06T19:43:00.040Z",
-    "IsActive": true,
+    "IsActive": false,
     "ExpiryType": "duration",
     "ExpiryDuration": {
       "duration": 1,
