@@ -1,18 +1,1 @@
-[
-  {
-    "KeyId": "Velora-key8262672",
-    "KeyName": "junebladi",
-    "SID": "",
-    "CreatedAt": "2025-05-06T19:30:37.316Z",
-    "FirstUsedAt": "2025-05-06T19:43:00.040Z",
-    "LastLogin": "2025-05-06T19:43:00.040Z",
-    "IsActive": false,
-    "ExpiryType": "duration",
-    "ExpiryDuration": {
-      "duration": 1,
-      "durationType": "weeks"
-    },
-    "ExpiryDate": null,
-    "CalculatedExpiry": "2025-05-13T19:43:00.040Z"
-  }
-]
+[]
