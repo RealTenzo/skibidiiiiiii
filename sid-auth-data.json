@@ -1,16 +1,1 @@
-[
-  {
-    "KeyId": "TENZO-key4304014",
-    "KeyName": "TESTING NIGGA AHH KEY :)",
-    "SID": "S-1-5-21-4218969372-1645167379-354272111-1000",
-    "CreatedAt": "2025-05-24T00:02:26.201Z",
-    "FirstUsedAt": "2025-05-24T00:02:58.759Z",
-    "LastLogin": "2025-05-24T00:09:42.507Z",
-    "IsActive": true,
-    "ExpiryType": "lifetime",
-    "ExpiryDuration": null,
-    "ExpiryDate": null,
-    "CalculatedExpiry": null,
-    "RequireSID": true
-  }
-]
+[]
