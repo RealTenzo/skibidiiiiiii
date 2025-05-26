@@ -16,10 +16,10 @@
   {
     "KeyId": "TENZO-key1824617",
     "KeyName": "Unnamed Key",
-    "SID": "",
+    "SID": "S-1-5-21-3784367613-3053149479-3413275071-1001",
     "CreatedAt": "2025-05-26T04:41:34.465Z",
-    "FirstUsedAt": null,
-    "LastLogin": null,
+    "FirstUsedAt": "2025-05-26T04:41:52.185Z",
+    "LastLogin": "2025-05-26T04:41:52.185Z",
     "IsActive": true,
     "ExpiryType": "lifetime",
     "ExpiryDuration": null,
