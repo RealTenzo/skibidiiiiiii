@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "KeyId": "TENZO-key3476818",
+    "KeyName": "admin",
+    "SID": "",
+    "CreatedAt": "2025-05-26T02:54:46.999Z",
+    "FirstUsedAt": null,
+    "LastLogin": null,
+    "IsActive": true,
+    "ExpiryType": "lifetime",
+    "ExpiryDuration": null,
+    "ExpiryDate": null,
+    "CalculatedExpiry": null,
+    "RequireSID": true
+  }
+]
