@@ -12,5 +12,19 @@
     "ExpiryDate": null,
     "CalculatedExpiry": null,
     "RequireSID": true
+  },
+  {
+    "KeyId": "TENZO-key1824617",
+    "KeyName": "Unnamed Key",
+    "SID": "",
+    "CreatedAt": "2025-05-26T04:41:34.465Z",
+    "FirstUsedAt": null,
+    "LastLogin": null,
+    "IsActive": true,
+    "ExpiryType": "lifetime",
+    "ExpiryDuration": null,
+    "ExpiryDate": null,
+    "CalculatedExpiry": null,
+    "RequireSID": true
   }
 ]
